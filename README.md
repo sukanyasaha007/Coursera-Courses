@@ -5,11 +5,11 @@ This repo contains all my MOOC certifications and assignments from the courses I
 ### An Introduction to Interactive Programming in Python (Part 1) offered by Rice University.
 
 #### Course Work
-Week 0 : Statements, expressions, variables
-Week 1 : Functions, logic, conditionals 
+<l> Week 0 : Statements, expressions, variables </l>
+<l> Week 1 : Functions, logic, conditionals 
 Week 2 : Event-driven programming, local and global variables, buttons and input fields
 Week 3 : The canvas, static drawing, timers, interactive drawing
-Week 4 : Lists, keyboard input, motion, positional/velocity control
+Week 4 : Lists, keyboard input, motion, positional/velocity control </l>
 
 #### Programming Assignments
 "Rock-Paper-Scissors-Lizard-Spock" game
